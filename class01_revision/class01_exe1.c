@@ -3,16 +3,16 @@
 @author Gustavo Tamiao
 @date 22 06 2021
 @brief Resolução do exercício 1 da aula 01
-Enunciado: Exerc´ıcio 1. [Ponteiros] Um ponteiro pode ser usado para dizer a uma fun¸c˜ao onde ela deve depositar
-o resultado de seus c´alculos. Escreva uma fun¸c˜ao que converta uma quantidade de minutos na nota¸c˜ao
-horas/minutos. A fun¸c˜ao recebe como parˆametro:
-• um n´umero inteiro (totalMinutos); e
-• os endere¸cos de duas vari´aveis inteiras, horas e minutos.
-A fun¸c˜ao deve ent˜ao atribuir valores `as vari´aveis passadas por referˆencia, de modo que os valores atribu´ıdos
-respeitem as seguintes condi¸c˜oes:
+Enunciado: Exercıcio 1. [Ponteiros] Um ponteiro pode ser usado para dizer a uma funcao onde ela deve depositar
+o resultado de seus calculos. Escreva uma funcao que converta uma quantidade de minutos na notacao
+horas/minutos. A funcao recebe como parametro:
+• um numero inteiro (totalMinutos); e
+• os enderecos de duas variaveis inteiras, horas e minutos.
+A funcao deve entao atribuir valores as variaveis passadas por referencia, de modo que os valores
+atribuıdos respeitem as seguintes condicoes:
 minutos < 60
 60 ∗ horas + minutos = totalMinutos
-Escreva tamb´em a fun¸c˜ao principal (main) que use a fun¸c˜ao desenvolvida.
+Escreva tambem a funcao principal (main) que use a funcao desenvolvida.
 */
 
 #include <stdio.h>
