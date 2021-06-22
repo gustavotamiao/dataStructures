@@ -2,7 +2,7 @@
 @file class01_exe03.c
 @author Gustavo Tamiao
 @date 22 06 2021
-@brief Resolução do exercício 1 da aula 01
+@brief Resolução do exercício 3 da aula 01
 Enunciado: Exercıcio 3. [Recursao] Escreva uma funcao recursiva
 para calcular o valor de um numero inteiro de base
 x elevada a um expoente inteiro y.
